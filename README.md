@@ -3,11 +3,11 @@
 <img align="right" alt="Analysis" width="400" src="https://www.truesenseamc.com/assets/img/data.gif">
 - 🌱 I’m currently learning **Power BI and Tableau**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akanksha-gakhar](https://github.com/akanksha-gakhar)
+- 👨‍💻 All of my projects are available at [akanksha-gakhar](https://github.com/akanksha-gakhar)
 
 - 📫 How to reach me **aa754451@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ixTftadHhu61PevFQXkAeRyz4WrMorRU/view?usp=sharing](https://drive.google.com/file/d/1ixTftadHhu61PevFQXkAeRyz4WrMorRU/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ixTftadHhu61PevFQXkAeRyz4WrMorRU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
