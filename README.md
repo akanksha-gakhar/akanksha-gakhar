@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [akanksha-gakhar](https://github.com/akanksha-gakhar)
 
-- 📫 How to reach me **aa754451@gmail.com**
+- 📫 How to reach me **gakharakanksha@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ixTftadHhu61PevFQXkAeRyz4WrMorRU/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jm8zhClVi_pPQDb-YOuSjbwz8pvLuI9i/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
